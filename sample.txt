@@ -1,3 +1,1 @@
-# Git Team Collaboration Project
-
-This project demonstrates Git merge conflict resolution.
+Making some changes
