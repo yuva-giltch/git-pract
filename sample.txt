@@ -1,1 +1,3 @@
-This update made in master
+# Git Team Collaboration Project
+
+This project demonstrates Git merge conflict resolution.
